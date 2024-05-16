@@ -1,10 +1,8 @@
 # HTML/CSS Project
 
-## Setup
 
 First step is to fork this repo into your own Github account - if you don't remember how, then refer back Lesson 0 contents.
 
-## Homework
 
 Create a new webpage on a subject that you're interested in (maybe the same topic you used for your Codepen submission).
 
